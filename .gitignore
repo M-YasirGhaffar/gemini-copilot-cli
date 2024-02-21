@@ -1,0 +1,4 @@
+dist/
+build/
+gemini_copilot.egg-info/
+.env
