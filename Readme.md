@@ -37,6 +37,12 @@ After installation, you can use the `gemini-copilot` command followed by your qu
 gemini-copilot "Your question here"
 ```
 
+If you are facing any issues with tool installation, use the code directly:
+
+```
+python gemini_copilot.py "Your question here"
+```
+
 ### Setting up API Key
 
 To use Gemini Copilot CLI, you need to obtain an API key from the Gemini website. Follow these steps to set up your API key:
