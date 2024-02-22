@@ -43,6 +43,10 @@ If you are facing any issues with tool installation, use the code directly:
 python gemini_copilot.py "Your question here"
 ```
 
+### Usage Example
+
+![image](https://github.com/M-YasirGhaffar/gemini-copilot-cli/assets/122939183/df7d5299-01e6-47ae-b6fa-0b65e51b7dbd)
+
 ### Setting up API Key
 
 To use Gemini Copilot CLI, you need to obtain an API key from the Gemini website. Follow these steps to set up your API key:
