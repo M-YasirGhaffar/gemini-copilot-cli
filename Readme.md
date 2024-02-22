@@ -41,7 +41,7 @@ gemini-copilot "Your question here"
 
 To use Gemini Copilot CLI, you need to obtain an API key from the Gemini website. Follow these steps to set up your API key:
 
-1. Go to [Gemini website](https://ai.google.dev/tutorials/python_quickstart).
+1. Go to [ai.google.dev](https://ai.google.dev/tutorials/python_quickstart).
 2. Sign up for an account or log in if you already have one.
 3. Once logged in, navigate to the API section and generate your API key.
 4. Copy the API key and create a `.env` file in the project directory.
