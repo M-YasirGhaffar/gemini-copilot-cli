@@ -17,10 +17,10 @@ setup(
         'requests'  # if needed
     ],
     python_requires='>=3.6',
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Yasir',
+    author_email='yasirghaffar.nust@proton.me',
     description='A CLI tool to interact with Gemini AI.',
     long_description=open('README.md').read(),
     license='MIT',
-    url='https://yourwebsite.com',
+    url='https://m-yasir-ghaffar.web.app',
 )
